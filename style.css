@@ -7,7 +7,7 @@ html{
 body { 
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
-  color:#66696C;
+  color:#008000; /*GGC15 */
   padding: 0;
   margin: 0;
   width: 100%; 
@@ -49,7 +49,7 @@ margin: 0.25em 0;
 padding: 0.25em 40px;
 line-height: 1.45;
 position: relative;
-color: #383838;
+color:#008000; /*GGC15*/
 text-indent:20px;
 }
 blockquote:before {
