@@ -1,2 +1,2 @@
-# hello-world-ggc15
-Actividad 2: Creación de un repositorio. Comandos básicos.
+# team-hmGGC15
+number 9
